@@ -2,7 +2,8 @@
 
 - 📱 I am an Android Developer.
 - 🔭 I’m currently working on an Android Project (Weather App).
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on some amazing open source android projects.
 <!--
 **Dev-Bhandari/Dev-Bhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
