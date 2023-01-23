@@ -1,6 +1,4 @@
-# Hi there 🙋‍♂️!
-# I am Dev Bhandari.
-# Thanks for visiting my profile 😄
+# Hi there 🙋‍♂️! <br>I am Dev Bhandari.<br>Thanks for visiting my profile 😄
 
 - 📱 I am an Android Developer.
 - 🔭 I’m currently working on an Android Project (Weather App).
