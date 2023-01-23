@@ -1,7 +1,7 @@
 # Hi there 🙋‍♂️! <br>I am Dev Bhandari.<br>Thanks for visiting my profile 😄
 
 - 📱 I am an Android Developer.
-- 🔭 I’m currently working on an Android Project (Weather App).
+<!-- - 🔭 I’m currently working on an Android Project (Weather App). -->
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on some amazing open source android projects.
 <!--
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 <br>
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Dev-Bhandari&show_icons=true&theme=radical" alt="Dev-Bhandari" />  
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Bhandari&layout=compact&show_icons=true&theme=radical" alt="Dev-Bhandari" />
-  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=Dev-Bhandari&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-Dev-Bhandari" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Dev-Bhandari&show_icons=true&bg_color=45,0F2027,203A43,2C5364&theme=dark&text_color=dedede&hide_border=true&count_private=true&hide=stars&title_color=88ef96" alt="Dev-Bhandari" />  
+<!--   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Bhandari&layout=compact&show_icons=true&theme=radical" alt="Dev-Bhandari" />
+  <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=Dev-Bhandari&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-Dev-Bhandari" /> -->
 </div>
 <br>
 
