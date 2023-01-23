@@ -1,7 +1,6 @@
 # Hi there 🙋‍♂️! <br>I am Dev Bhandari.<br>Thanks for visiting my profile 😄
 
-- 📱 I am an Android Developer.
-<!-- - 🔭 I’m currently working on an Android Project (Weather App). -->
+- 📱 I am an Android Developer.<!-- - 🔭 I’m currently working on an Android Project (Weather App). -->
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on some amazing open source android projects.
 <!--
