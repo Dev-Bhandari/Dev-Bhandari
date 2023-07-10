@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+[<img align="left" alt="Flutter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="padding-right:10px;" />](https://flutter.dev/)
 [<img align="left" alt="Visual Studio Code" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="Android Studio" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />](https://developer.android.com/)
 [<img align="left" alt="Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />](https://www.java.com/en/)
