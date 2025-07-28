@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://devbhandari.rf.gd#gh-light-mode-only)
+<!--[![website](./img/globe-light.svg)](https://devbhandari.rf.gd#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://devbhandari.rf.gd#gh-dark-mode-only)
-&nbsp;&nbsp;
+&nbsp;&nbsp;-->
 [![website](./img/twitter-light.svg)](https://twitter.com/D3V_Bhandari#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/D3V_Bhandari#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dev-bhandari-baa670223/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dev-bhandari-baa670223/#gh-dark-mode-only)
-&nbsp;&nbsp;
+<!--&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/dev.bhandari_/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/dev.bhandari_/#gh-dark-mode-only)
-
+-->
 
 <br>
 <div align="center">
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <!--   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Bhandari&layout=compact&show_icons=true&theme=radical" alt="Dev-Bhandari" />
   <img height="180px" src="http://github-readme-streak-stats.herokuapp.com?user=Dev-Bhandari&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="streak-Dev-Bhandari" /> -->
 </div>
-<br>
+<be>
 
-
+<!--
 ### Languages and Tools:
 
 [<img align="left" alt="Flutter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="padding-right:10px;" />](https://flutter.dev/)
@@ -60,3 +60,4 @@ Here are some ideas to get you started:
 [<img align="left" alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com/)
 [<img align="left" alt="Flask" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" style="padding-right:10px;" />](https://flask.palletsprojects.com/en/2.1.x/)
+-->
